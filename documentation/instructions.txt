@@ -1,0 +1,1 @@
+HI Guys this code help you to create table , validation for codeigniter
