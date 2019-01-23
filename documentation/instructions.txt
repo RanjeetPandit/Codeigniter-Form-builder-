@@ -1,1 +1,6 @@
-HI Guys this code help you to create table , validation for codeigniter
+HI Guys this code help you to create table , validation for codeigniter.
+
+1. create your html form .
+2. set the name of field .
+3. add form open/close tag.
+4. add submit button .
